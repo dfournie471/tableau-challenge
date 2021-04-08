@@ -25,5 +25,5 @@ of repair than bikes under that threshold. However, since the data set did not c
 <br><br>
 
 ### Notes
-The twbx file was too large to push to github
+The twbx file was too large to push to github <br>
 the citi story was designed on a 27' 1440p monitor
